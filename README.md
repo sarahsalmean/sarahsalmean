@@ -1,6 +1,19 @@
-Having completed CodeFirstGirls introduction to Python course, I will now be embarking on School Of Code's intensive 16 week bootcamp to become a full stack web developer! As part of this I'll be joining the #100DaysofCode challenge... follow along to see how I progress! 👩‍💻
+I'm on School of Code's Full Stack Bootcamp - follow along to see my journey! 👩🏼‍💻
 
+We've covered:
+HTML
+CSS
+JavaScript
+DOM
+API's 
+Node
+Jest
+Playwright 
 
+and we're currently learning:
+React 
+
+⭐️
 <!--
 **sarahsalmean/sarahsalmean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
