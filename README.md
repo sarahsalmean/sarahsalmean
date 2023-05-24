@@ -9,9 +9,16 @@ API's
 Node
 Jest
 Playwright 
+React 
+Express 
+Postgres 
+SQL
+
 
 and we're currently learning:
-React 
+Typescript 
+
+[![Codewars](https://www.codewars.com/users/sarahsalmean/badges/large)](https://www.codewars.com/users/sarahsalmean)
 
 ⭐️
 <!--
