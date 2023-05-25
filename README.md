@@ -19,6 +19,9 @@ and we're currently learning:
 Typescript 💻
 
 [![Codewars](https://www.codewars.com/users/sarahsalmean/badges/large)](https://www.codewars.com/users/sarahsalmean)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahsalmean&count_private=true)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarahsalmean/)
 
 ## Tech Stack:
